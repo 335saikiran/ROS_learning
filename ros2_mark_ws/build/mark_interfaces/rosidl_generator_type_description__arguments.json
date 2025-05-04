@@ -1,0 +1,21 @@
+{
+  "package_name": "mark_interfaces",
+  "output_dir": "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_generator_type_description/mark_interfaces",
+  "idl_tuples": [
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:msg/HardwareStatus.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:msg/LedpanelState.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:msg/Turtle.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:msg/TurtleArray.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:srv/RectangleArea.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:srv/BatteryLifeState.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:srv/CatchTurtle.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:action/CountUntil.idl",
+    "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/rosidl_adapter/mark_interfaces:action/ReachDistance.idl"
+  ],
+  "include_paths": [
+    "service_msgs:/opt/ros/jazzy/share/service_msgs",
+    "builtin_interfaces:/opt/ros/jazzy/share/builtin_interfaces",
+    "action_msgs:/opt/ros/jazzy/share/action_msgs",
+    "unique_identifier_msgs:/opt/ros/jazzy/share/unique_identifier_msgs"
+  ]
+}

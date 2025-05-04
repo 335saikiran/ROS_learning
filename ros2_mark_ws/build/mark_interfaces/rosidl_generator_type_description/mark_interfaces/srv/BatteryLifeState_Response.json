@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/srv/BatteryLifeState_Response",
+      "fields": [
+        {
+          "name": "success",
+          "type": {
+            "type_id": 15,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/srv/BatteryLifeState_Response",
+      "hash_string": "RIHS01_9f403ecbf38cb9d925e52a6041275ab039f8a9a301a3eb5af6993db7e52681e9"
+    }
+  ]
+}

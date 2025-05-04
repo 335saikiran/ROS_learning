@@ -1,0 +1,25 @@
+[0.965s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/executors_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/executors_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/executors_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/executors_py/build --no-deps symlink_data
+[1.249s] running develop
+[1.433s] running egg_info
+[1.433s] creating executors_py.egg-info
+[1.450s] writing executors_py.egg-info/PKG-INFO
+[1.451s] writing dependency_links to executors_py.egg-info/dependency_links.txt
+[1.451s] writing entry points to executors_py.egg-info/entry_points.txt
+[1.451s] writing requirements to executors_py.egg-info/requires.txt
+[1.451s] writing top-level names to executors_py.egg-info/top_level.txt
+[1.451s] writing manifest file 'executors_py.egg-info/SOURCES.txt'
+[1.482s] reading manifest file 'executors_py.egg-info/SOURCES.txt'
+[1.482s] writing manifest file 'executors_py.egg-info/SOURCES.txt'
+[1.501s] running build_ext
+[1.501s] Creating /home/saikiran335/ros2_mark_ws/install/executors_py/lib/python3.12/site-packages/executors-py.egg-link (link to .)
+[1.502s] Installing multi_threaded_executor script to /home/saikiran335/ros2_mark_ws/install/executors_py/lib/executors_py
+[1.502s] Installing single_threaded_executor script to /home/saikiran335/ros2_mark_ws/install/executors_py/lib/executors_py
+[1.502s] 
+[1.502s] Installed /home/saikiran335/ros2_mark_ws/build/executors_py
+[1.502s] running symlink_data
+[1.502s] creating /home/saikiran335/ros2_mark_ws/install/executors_py/share/ament_index
+[1.503s] creating /home/saikiran335/ros2_mark_ws/install/executors_py/share/ament_index/resource_index
+[1.503s] creating /home/saikiran335/ros2_mark_ws/install/executors_py/share/ament_index/resource_index/packages
+[1.503s] symbolically linking /home/saikiran335/ros2_mark_ws/build/executors_py/resource/executors_py -> /home/saikiran335/ros2_mark_ws/install/executors_py/share/ament_index/resource_index/packages
+[1.503s] symbolically linking /home/saikiran335/ros2_mark_ws/build/executors_py/package.xml -> /home/saikiran335/ros2_mark_ws/install/executors_py/share/executors_py
+[1.549s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/executors_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/executors_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/executors_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/executors_py/build --no-deps symlink_data

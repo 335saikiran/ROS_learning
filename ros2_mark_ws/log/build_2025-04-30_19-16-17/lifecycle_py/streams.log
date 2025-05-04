@@ -1,0 +1,20 @@
+[0.775s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data
+[1.071s] running develop
+[1.254s] running egg_info
+[1.271s] writing lifecycle_py.egg-info/PKG-INFO
+[1.272s] writing dependency_links to lifecycle_py.egg-info/dependency_links.txt
+[1.272s] writing entry points to lifecycle_py.egg-info/entry_points.txt
+[1.272s] writing requirements to lifecycle_py.egg-info/requires.txt
+[1.272s] writing top-level names to lifecycle_py.egg-info/top_level.txt
+[1.302s] reading manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.303s] writing manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.325s] running build_ext
+[1.325s] Creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages/lifecycle-py.egg-link (link to .)
+[1.326s] Installing lifecycle_node_manager script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[1.326s] Installing move_robot_startup script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[1.326s] Installing number_publisher script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[1.326s] Installing robot_distance_server script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[1.327s] 
+[1.327s] Installed /home/saikiran335/ros2_mark_ws/build/lifecycle_py
+[1.327s] running symlink_data
+[1.374s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data

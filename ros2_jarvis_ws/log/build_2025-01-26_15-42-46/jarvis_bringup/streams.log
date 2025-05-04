@@ -1,0 +1,31 @@
+[0.013s] Invoking command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake /home/saikiran335/ros2_jarvis_ws/src/jarvis_bringup -DCMAKE_INSTALL_PREFIX=/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup
+[0.024s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.107s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.153s] -- Configuring done
+[0.155s] -- Generating done
+[0.156s] -- Build files have been written to: /home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup
+[0.161s] Invoked command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup' returned '0': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake /home/saikiran335/ros2_jarvis_ws/src/jarvis_bringup -DCMAKE_INSTALL_PREFIX=/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup
+[0.164s] Invoking command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake --build /home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup -- -j16 -l16
+[0.206s] Invoked command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup' returned '0': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake --build /home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup -- -j16 -l16
+[0.208s] Invoking command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake --install /home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup
+[0.215s] -- Install configuration: ""
+[0.215s] -- Execute custom install script
+[0.215s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup//launch/jarvis_gazebo.launch.xml
+[0.215s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup//rviz/jarvis_config.rviz
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup//worlds/test_world.world
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/ament_index/resource_index/package_run_dependencies/jarvis_bringup
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/ament_index/resource_index/parent_prefix_path/jarvis_bringup
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/environment/ament_prefix_path.sh
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/environment/ament_prefix_path.dsv
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/environment/path.sh
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/environment/path.dsv
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/local_setup.bash
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/local_setup.sh
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/local_setup.zsh
+[0.216s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/local_setup.dsv
+[0.217s] -- Symlinking: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/package.dsv
+[0.225s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/ament_index/resource_index/packages/jarvis_bringup
+[0.225s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/cmake/jarvis_bringupConfig.cmake
+[0.225s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/cmake/jarvis_bringupConfig-version.cmake
+[0.226s] -- Up-to-date symlink: /home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup/share/jarvis_bringup/package.xml
+[0.228s] Invoked command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup' returned '0': CMAKE_PREFIX_PATH=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description:/home/saikiran335/ros2_jarvis_ws/install/jarvis_bringup:/opt/ros/humble /usr/bin/cmake --install /home/saikiran335/ros2_jarvis_ws/build/jarvis_bringup

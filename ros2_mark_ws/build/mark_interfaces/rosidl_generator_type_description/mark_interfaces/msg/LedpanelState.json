@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/msg/LedpanelState",
+      "fields": [
+        {
+          "name": "led_state",
+          "type": {
+            "type_id": 152,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/msg/LedpanelState",
+      "hash_string": "RIHS01_24ef8c35efa68d8f4e183afe9fff31b501e539aa8f47a4a8edb15b5d45ff75de"
+    }
+  ]
+}

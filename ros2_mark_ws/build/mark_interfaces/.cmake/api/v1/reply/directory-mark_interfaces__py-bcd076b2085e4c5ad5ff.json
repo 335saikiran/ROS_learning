@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "mark_interfaces__py",
+		"source" : "/home/saikiran335/ros2_mark_ws/build/mark_interfaces/mark_interfaces__py"
+	}
+}

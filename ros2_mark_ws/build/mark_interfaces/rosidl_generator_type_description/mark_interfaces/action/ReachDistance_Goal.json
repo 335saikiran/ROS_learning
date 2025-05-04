@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/action/ReachDistance_Goal",
+      "fields": [
+        {
+          "name": "position",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "velocity",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/action/ReachDistance_Goal",
+      "hash_string": "RIHS01_9af06940f65d46fe06afa71fd733bcc08ac2a7aa9cff76d998f8f6c98ceaea77"
+    }
+  ]
+}

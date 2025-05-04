@@ -1,0 +1,24 @@
+[0.767s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/components_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/components_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/components_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/components_py/build --no-deps symlink_data
+[1.063s] running develop
+[1.243s] running egg_info
+[1.243s] creating components_py.egg-info
+[1.260s] writing components_py.egg-info/PKG-INFO
+[1.260s] writing dependency_links to components_py.egg-info/dependency_links.txt
+[1.261s] writing entry points to components_py.egg-info/entry_points.txt
+[1.261s] writing requirements to components_py.egg-info/requires.txt
+[1.261s] writing top-level names to components_py.egg-info/top_level.txt
+[1.261s] writing manifest file 'components_py.egg-info/SOURCES.txt'
+[1.291s] reading manifest file 'components_py.egg-info/SOURCES.txt'
+[1.292s] writing manifest file 'components_py.egg-info/SOURCES.txt'
+[1.311s] running build_ext
+[1.311s] Creating /home/saikiran335/ros2_mark_ws/install/components_py/lib/python3.12/site-packages/components-py.egg-link (link to .)
+[1.311s] Installing manual_composition script to /home/saikiran335/ros2_mark_ws/install/components_py/lib/components_py
+[1.312s] 
+[1.312s] Installed /home/saikiran335/ros2_mark_ws/build/components_py
+[1.312s] running symlink_data
+[1.312s] creating /home/saikiran335/ros2_mark_ws/install/components_py/share/ament_index
+[1.312s] creating /home/saikiran335/ros2_mark_ws/install/components_py/share/ament_index/resource_index
+[1.312s] creating /home/saikiran335/ros2_mark_ws/install/components_py/share/ament_index/resource_index/packages
+[1.312s] symbolically linking /home/saikiran335/ros2_mark_ws/build/components_py/resource/components_py -> /home/saikiran335/ros2_mark_ws/install/components_py/share/ament_index/resource_index/packages
+[1.313s] symbolically linking /home/saikiran335/ros2_mark_ws/build/components_py/package.xml -> /home/saikiran335/ros2_mark_ws/install/components_py/share/components_py
+[1.361s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/components_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/components_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/components_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/components_py/build --no-deps symlink_data

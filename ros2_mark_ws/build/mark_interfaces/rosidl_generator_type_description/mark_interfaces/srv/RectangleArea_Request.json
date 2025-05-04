@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/srv/RectangleArea_Request",
+      "fields": [
+        {
+          "name": "length",
+          "type": {
+            "type_id": 11,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "width",
+          "type": {
+            "type_id": 11,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/srv/RectangleArea_Request",
+      "hash_string": "RIHS01_2c6a2d3dcead3e432aecb110785552d133d257af73b0b0a974f893bc802da81d"
+    }
+  ]
+}

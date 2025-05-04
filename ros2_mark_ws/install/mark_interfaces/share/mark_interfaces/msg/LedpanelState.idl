@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from mark_interfaces/msg/LedpanelState.msg
+// generated code does not contain a copyright notice
+
+
+module mark_interfaces {
+  module msg {
+    struct LedpanelState {
+      sequence<int64> led_state;
+    };
+  };
+};

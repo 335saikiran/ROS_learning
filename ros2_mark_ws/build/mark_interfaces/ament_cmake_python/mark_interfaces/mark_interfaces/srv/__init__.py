@@ -1,0 +1,12 @@
+from mark_interfaces.srv._battery_life_state import BatteryLifeState  # noqa: F401
+from mark_interfaces.srv._battery_life_state import BatteryLifeState_Event  # noqa: F401
+from mark_interfaces.srv._battery_life_state import BatteryLifeState_Request  # noqa: F401
+from mark_interfaces.srv._battery_life_state import BatteryLifeState_Response  # noqa: F401
+from mark_interfaces.srv._catch_turtle import CatchTurtle  # noqa: F401
+from mark_interfaces.srv._catch_turtle import CatchTurtle_Event  # noqa: F401
+from mark_interfaces.srv._catch_turtle import CatchTurtle_Request  # noqa: F401
+from mark_interfaces.srv._catch_turtle import CatchTurtle_Response  # noqa: F401
+from mark_interfaces.srv._rectangle_area import RectangleArea  # noqa: F401
+from mark_interfaces.srv._rectangle_area import RectangleArea_Event  # noqa: F401
+from mark_interfaces.srv._rectangle_area import RectangleArea_Request  # noqa: F401
+from mark_interfaces.srv._rectangle_area import RectangleArea_Response  # noqa: F401

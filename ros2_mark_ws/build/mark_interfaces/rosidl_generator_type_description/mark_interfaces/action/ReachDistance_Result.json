@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/action/ReachDistance_Result",
+      "fields": [
+        {
+          "name": "final_position",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "message",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/action/ReachDistance_Result",
+      "hash_string": "RIHS01_1f8bfba83e0ae61aa3bf6f0e02ca32af16ae52a6b0e527abd32b4f4d8b9a3d0b"
+    }
+  ]
+}

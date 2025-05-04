@@ -1,0 +1,24 @@
+[0.580s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data
+[0.804s] running develop
+[0.930s] running egg_info
+[0.930s] creating lifecycle_py.egg-info
+[0.941s] writing lifecycle_py.egg-info/PKG-INFO
+[0.942s] writing dependency_links to lifecycle_py.egg-info/dependency_links.txt
+[0.942s] writing entry points to lifecycle_py.egg-info/entry_points.txt
+[0.942s] writing requirements to lifecycle_py.egg-info/requires.txt
+[0.942s] writing top-level names to lifecycle_py.egg-info/top_level.txt
+[0.942s] writing manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[0.966s] reading manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[0.966s] writing manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[0.977s] running build_ext
+[0.978s] Creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages/lifecycle-py.egg-link (link to .)
+[0.978s] Installing number_publisher script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[0.978s] 
+[0.978s] Installed /home/saikiran335/ros2_mark_ws/build/lifecycle_py
+[0.979s] running symlink_data
+[0.979s] creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/share/ament_index
+[0.979s] creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/share/ament_index/resource_index
+[0.979s] creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[0.979s] symbolically linking /home/saikiran335/ros2_mark_ws/build/lifecycle_py/resource/lifecycle_py -> /home/saikiran335/ros2_mark_ws/install/lifecycle_py/share/ament_index/resource_index/packages
+[0.979s] symbolically linking /home/saikiran335/ros2_mark_ws/build/lifecycle_py/package.xml -> /home/saikiran335/ros2_mark_ws/install/lifecycle_py/share/lifecycle_py
+[1.028s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data

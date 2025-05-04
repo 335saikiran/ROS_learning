@@ -1,0 +1,1 @@
+/home/saikiran335/ros2_mark_ws/build/mark_bringup/ament_cmake_environment_hooks/local_setup.sh

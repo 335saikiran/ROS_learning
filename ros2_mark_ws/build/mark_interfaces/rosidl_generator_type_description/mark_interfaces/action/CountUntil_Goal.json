@@ -1,0 +1,36 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "mark_interfaces/action/CountUntil_Goal",
+      "fields": [
+        {
+          "name": "target_number",
+          "type": {
+            "type_id": 8,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        },
+        {
+          "name": "period",
+          "type": {
+            "type_id": 11,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "mark_interfaces/action/CountUntil_Goal",
+      "hash_string": "RIHS01_2ca1f1f7fa85c586b0b8d749d073834c91c4e14224e560a5f49b89458d0318e9"
+    }
+  ]
+}

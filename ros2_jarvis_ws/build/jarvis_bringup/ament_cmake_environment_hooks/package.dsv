@@ -1,0 +1,4 @@
+source;share/jarvis_bringup/local_setup.bash
+source;share/jarvis_bringup/local_setup.dsv
+source;share/jarvis_bringup/local_setup.sh
+source;share/jarvis_bringup/local_setup.zsh

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mark_interfaces/srv/BatteryLifeState.srv
+// generated code does not contain a copyright notice
+
+
+module mark_interfaces {
+  module srv {
+    struct BatteryLifeState_Request {
+      int64 led_number;
+
+      boolean led_state;
+    };
+    struct BatteryLifeState_Response {
+      boolean success;
+    };
+  };
+};

@@ -1,0 +1,17 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from mark_interfaces/srv/RectangleArea.srv
+// generated code does not contain a copyright notice
+
+
+module mark_interfaces {
+  module srv {
+    struct RectangleArea_Request {
+      double length;
+
+      double width;
+    };
+    struct RectangleArea_Response {
+      double area;
+    };
+  };
+};

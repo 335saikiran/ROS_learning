@@ -1,0 +1,40 @@
+[0.661s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/actions_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/actions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/saikiran335/ros2_mark_ws/build/actions_py/build
+[0.864s] running develop
+[0.986s] Removing /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions-py.egg-link (link to .)
+[1.030s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/actions_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/actions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/saikiran335/ros2_mark_ws/build/actions_py/build
+[1.033s] Invoking command in '/home/saikiran335/ros2_mark_ws/src/actions_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/actions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/actions_py build --build-base /home/saikiran335/ros2_mark_ws/build/actions_py/build install --record /home/saikiran335/ros2_mark_ws/build/actions_py/install.log --single-version-externally-managed install_data --force
+[1.197s] running egg_info
+[1.207s] writing ../../build/actions_py/actions_py.egg-info/PKG-INFO
+[1.208s] writing dependency_links to ../../build/actions_py/actions_py.egg-info/dependency_links.txt
+[1.209s] writing entry points to ../../build/actions_py/actions_py.egg-info/entry_points.txt
+[1.210s] writing requirements to ../../build/actions_py/actions_py.egg-info/requires.txt
+[1.210s] writing top-level names to ../../build/actions_py/actions_py.egg-info/top_level.txt
+[1.232s] reading manifest file '../../build/actions_py/actions_py.egg-info/SOURCES.txt'
+[1.242s] writing manifest file '../../build/actions_py/actions_py.egg-info/SOURCES.txt'
+[1.242s] running build
+[1.242s] running build_py
+[1.243s] creating /home/saikiran335/ros2_mark_ws/build/actions_py/build
+[1.243s] creating /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib
+[1.243s] creating /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py
+[1.243s] copying actions_py/count_until_client.py -> /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py
+[1.243s] copying actions_py/count_until_server.py -> /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py
+[1.243s] copying actions_py/__init__.py -> /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py
+[1.243s] running install
+[1.248s] running install_lib
+[1.260s] creating /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py
+[1.260s] copying /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py/count_until_client.py -> /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py
+[1.260s] copying /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py/count_until_server.py -> /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py
+[1.260s] copying /home/saikiran335/ros2_mark_ws/build/actions_py/build/lib/actions_py/__init__.py -> /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py
+[1.260s] byte-compiling /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py/count_until_client.py to count_until_client.cpython-312.pyc
+[1.261s] byte-compiling /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py/count_until_server.py to count_until_server.cpython-312.pyc
+[1.262s] byte-compiling /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py/__init__.py to __init__.cpython-312.pyc
+[1.262s] running install_data
+[1.262s] copying resource/actions_py -> /home/saikiran335/ros2_mark_ws/install/actions_py/share/ament_index/resource_index/packages
+[1.262s] copying package.xml -> /home/saikiran335/ros2_mark_ws/install/actions_py/share/actions_py
+[1.262s] running install_egg_info
+[1.274s] Copying ../../build/actions_py/actions_py.egg-info to /home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages/actions_py-0.0.0-py3.12.egg-info
+[1.275s] running install_scripts
+[1.363s] Installing count_until_client script to /home/saikiran335/ros2_mark_ws/install/actions_py/lib/actions_py
+[1.363s] Installing count_until_server script to /home/saikiran335/ros2_mark_ws/install/actions_py/lib/actions_py
+[1.363s] writing list of installed files to '/home/saikiran335/ros2_mark_ws/build/actions_py/install.log'
+[1.389s] Invoked command in '/home/saikiran335/ros2_mark_ws/src/actions_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/actions_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/actions_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/actions_py build --build-base /home/saikiran335/ros2_mark_ws/build/actions_py/build install --record /home/saikiran335/ros2_mark_ws/build/actions_py/install.log --single-version-externally-managed install_data --force

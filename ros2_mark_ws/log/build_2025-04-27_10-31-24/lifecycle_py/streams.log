@@ -1,0 +1,17 @@
+[0.964s] Invoking command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data
+[1.197s] running develop
+[1.335s] running egg_info
+[1.347s] writing lifecycle_py.egg-info/PKG-INFO
+[1.347s] writing dependency_links to lifecycle_py.egg-info/dependency_links.txt
+[1.347s] writing entry points to lifecycle_py.egg-info/entry_points.txt
+[1.347s] writing requirements to lifecycle_py.egg-info/requires.txt
+[1.348s] writing top-level names to lifecycle_py.egg-info/top_level.txt
+[1.370s] reading manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.480s] writing manifest file 'lifecycle_py.egg-info/SOURCES.txt'
+[1.494s] running build_ext
+[1.494s] Creating /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages/lifecycle-py.egg-link (link to .)
+[1.494s] Installing number_publisher script to /home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/lifecycle_py
+[1.495s] 
+[1.495s] Installed /home/saikiran335/ros2_mark_ws/build/lifecycle_py
+[1.495s] running symlink_data
+[1.573s] Invoked command in '/home/saikiran335/ros2_mark_ws/build/lifecycle_py' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/saikiran335/ros2_mark_ws/build/lifecycle_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/saikiran335/ros2_mark_ws/install/lifecycle_py/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/saikiran335/ros2_mark_ws/build/lifecycle_py/build --no-deps symlink_data

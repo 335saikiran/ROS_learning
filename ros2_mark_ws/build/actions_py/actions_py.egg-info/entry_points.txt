@@ -1,0 +1,5 @@
+[console_scripts]
+count_until_client = actions_py.count_until_client:main
+count_until_server = actions_py.count_until_server:main
+robot_distance_client = actions_py.robot_distance_client:main
+robot_distance_server = actions_py.robot_distance_server:main

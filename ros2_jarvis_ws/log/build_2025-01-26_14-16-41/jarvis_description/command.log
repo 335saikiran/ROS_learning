@@ -1,0 +1,2 @@
+Invoking command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_description': /usr/bin/cmake /home/saikiran335/ros2_jarvis_ws/src/jarvis_description -DCMAKE_INSTALL_PREFIX=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description
+Invoked command in '/home/saikiran335/ros2_jarvis_ws/build/jarvis_description' returned '1': /usr/bin/cmake /home/saikiran335/ros2_jarvis_ws/src/jarvis_description -DCMAKE_INSTALL_PREFIX=/home/saikiran335/ros2_jarvis_ws/install/jarvis_description

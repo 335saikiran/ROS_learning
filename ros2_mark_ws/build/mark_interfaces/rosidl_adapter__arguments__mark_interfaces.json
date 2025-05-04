@@ -1,0 +1,14 @@
+{
+  "package_name": "mark_interfaces",
+  "non_idl_tuples": [
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:msg/HardwareStatus.msg",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:msg/LedpanelState.msg",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:msg/Turtle.msg",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:msg/TurtleArray.msg",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:srv/RectangleArea.srv",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:srv/BatteryLifeState.srv",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:srv/CatchTurtle.srv",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:action/CountUntil.action",
+    "/home/saikiran335/ros2_mark_ws/src/mark_interfaces:action/ReachDistance.action"
+  ]
+}

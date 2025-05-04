@@ -1,0 +1,8 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/saikiran335/ros2_mark_ws/install/mark_interfaces/lib/python3.12/site-packages",
+        "/home/saikiran335/ros2_mark_ws/build/mark_py_pkg",
+        "/home/saikiran335/ros2_mark_ws/install/mark_py_pkg/lib/python3.12/site-packages",
+        "/opt/ros/jazzy/lib/python3.12/site-packages"
+    ]
+}
